@@ -1,0 +1,78 @@
+[
+	{
+		"title": "SIXProtocol",
+		"links": [
+			{
+				"text": "Home",
+				"url": "https://sixprotocol.com/"
+			},
+			{
+				"text": "Staking",
+				"url": "https://sixprotocol.com/become-a-node"
+			},
+			{
+				"text": "Bridge",
+				"url": "https://bridge.six.network/"
+			},
+			{
+				"text": "Contract Us",
+				"url": "https://zeeg.me/sixnetwork"
+			}
+		]
+	},
+	{
+		"title": "Developers",
+		"links": [
+			{
+				"text": "Documentation",
+				"url": "https://sixnetwork.gitbook.io"
+			},
+			{
+				"text": "GitHub",
+				"url": "https://github.com/thesixnetwork"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [
+			{
+				"text": "Twitter",
+				"url": "https://twitter.com/theSIXnetwork"
+			},
+			{
+				"text": "Facebook",
+				"url": "https://web.facebook.com/thesixnetwork"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/5gJQCXzcWf"
+			},
+			{
+				"text": "Telegram",
+				"url": "https://t.me/SIXnetwork"
+			},
+			{
+				"text": "Medium",
+				"url": "https://sixnetwork.medium.com/"
+			},
+			{
+				"text": "Kakao",
+				"url": "https://open.kakao.com/o/gQNRT5K"
+			}
+		]
+	},
+	{
+		"title": "Convert EVM Token",
+		"links": [
+			{
+				"text": "Mainnet",
+				"url": "https://evm.sixprotocol.com/"
+			},
+			{
+				"text": "Testnet",
+				"url": "https://evm.fivenet.sixprotocol.com/"
+			}
+		]
+	}
+]

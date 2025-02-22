@@ -1,0 +1,41 @@
+[
+	{
+		"title": "SIX EVM Explorer",
+		"url": "https://evm.sixscan.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png",
+		"isActive": true
+	},
+	{
+		"title": "SIX Cosmos Explorer",
+		"url": "https://sixscan.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png",
+		"isActive": true
+	},
+	{
+		"title": "SIX Cosmos Explorer V2",
+		"url": "https://v2.sixscan.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png",
+		"isActive": true
+	},
+	{
+		"title": "SIX EVM Explorer",
+		"url": "https://fivenet.evm.sixscan.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png"
+	},
+	{
+		"title": "SIX Cosmos Explorer",
+		"url": "https://sixscan.io/fivenet",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png"
+	},
+	{
+		"title": "SIX Cosmos Explorer V2",
+		"url": "https://v2.fivenet.sixscan.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png"
+	}
+]
