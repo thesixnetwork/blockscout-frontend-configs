@@ -10,15 +10,13 @@
 		"title": "SIX Cosmos Explorer",
 		"url": "https://sixscan.io/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png",
-		"isActive": true
+		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png"
 	},
 	{
 		"title": "SIX Cosmos Explorer V2",
 		"url": "https://v2.sixscan.io/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png",
-		"isActive": true
+		"icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/sixnet/chain.png"
 	},
 	{
 		"title": "SIX EVM Explorer",
